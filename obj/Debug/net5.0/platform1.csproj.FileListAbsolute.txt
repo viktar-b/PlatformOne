@@ -1,0 +1,15 @@
+/Users/viktar-b/test-code/platform1/bin/Debug/net5.0/platform1.deps.json
+/Users/viktar-b/test-code/platform1/bin/Debug/net5.0/platform1.runtimeconfig.json
+/Users/viktar-b/test-code/platform1/bin/Debug/net5.0/platform1.runtimeconfig.dev.json
+/Users/viktar-b/test-code/platform1/bin/Debug/net5.0/platform1.dll
+/Users/viktar-b/test-code/platform1/bin/Debug/net5.0/ref/platform1.dll
+/Users/viktar-b/test-code/platform1/bin/Debug/net5.0/platform1.pdb
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.csproj.AssemblyReference.cache
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.AssemblyInfoInputs.cache
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.AssemblyInfo.cs
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.csproj.CoreCompileInputs.cache
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.dll
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/ref/platform1.dll
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.pdb
+/Users/viktar-b/test-code/platform1/obj/Debug/net5.0/platform1.genruntimeconfig.cache
