@@ -12,7 +12,7 @@ The maze must:
 
 Ideally the solution will be written in C#.
 
-## Solution
+## Notes
 
 - Eller's algorithm is adapted from the following [article](http://www.neocomputer.org/projects/eller.html).
 - The width and height properties depend on the width of the console window.
